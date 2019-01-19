@@ -1,0 +1,12 @@
+F:\c# Gonchart\task 2\RunWinFormApplication\RunWinFormApplication\bin\Debug\RunWinFormApplication.exe.config
+C:\Users\антон\Documents\Visual Studio 2012\Projects\c# Gonchart\task 2\RunWinFormApplication\RunWinFormApplication\bin\Debug\RunWinFormApplication.exe.config
+C:\Users\антон\Documents\Visual Studio 2012\Projects\c# Gonchart\task 2\RunWinFormApplication\RunWinFormApplication\bin\Debug\RunWinFormApplication.exe
+C:\Users\антон\Documents\Visual Studio 2012\Projects\c# Gonchart\task 2\RunWinFormApplication\RunWinFormApplication\bin\Debug\RunWinFormApplication.pdb
+C:\Users\антон\Documents\Visual Studio 2012\Projects\c# Gonchart\task 2\RunWinFormApplication\RunWinFormApplication\obj\Debug\RunWinFormApplication.csprojResolveAssemblyReference.cache
+C:\Users\антон\Documents\Visual Studio 2012\Projects\c# Gonchart\task 2\RunWinFormApplication\RunWinFormApplication\obj\Debug\RunWinFormApplication.Properties.Resources.resources
+C:\Users\антон\Documents\Visual Studio 2012\Projects\c# Gonchart\task 2\RunWinFormApplication\RunWinFormApplication\obj\Debug\RunWinFormApplication.csproj.GenerateResource.Cache
+C:\Users\антон\Documents\Visual Studio 2012\Projects\c# Gonchart\task 2\RunWinFormApplication\RunWinFormApplication\obj\Debug\RunWinFormApplication.exe
+C:\Users\антон\Documents\Visual Studio 2012\Projects\c# Gonchart\task 2\RunWinFormApplication\RunWinFormApplication\obj\Debug\RunWinFormApplication.pdb
+C:\Users\антон\Documents\Visual Studio 2012\Projects\c# Gonchart\task 2\RunWinFormApplication\RunWinFormApplication\bin\Debug\CryptographerСomponent.dll
+C:\Users\антон\Documents\Visual Studio 2012\Projects\c# Gonchart\task 2\RunWinFormApplication\RunWinFormApplication\bin\Debug\CryptographerСomponent.pdb
+C:\Users\антон\Documents\Visual Studio 2012\Projects\c# Gonchart\task 2\RunWinFormApplication\RunWinFormApplication\obj\Debug\RunWinFormApplication.Form1.resources
