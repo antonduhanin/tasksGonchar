@@ -1,0 +1,9 @@
+F:\c# Gonchart\task 15\clientServerDate\clientServerDate\bin\Debug\clientServerDate.exe.config
+F:\c# Gonchart\task 15\clientServerDate\clientServerDate\bin\Debug\clientServerDate.exe
+F:\c# Gonchart\task 15\clientServerDate\clientServerDate\bin\Debug\clientServerDate.pdb
+F:\c# Gonchart\task 15\clientServerDate\clientServerDate\obj\Debug\clientServerDate.Form1.resources
+F:\c# Gonchart\task 15\clientServerDate\clientServerDate\obj\Debug\clientServerDate.Properties.Resources.resources
+F:\c# Gonchart\task 15\clientServerDate\clientServerDate\obj\Debug\clientServerDate.csproj.GenerateResource.Cache
+F:\c# Gonchart\task 15\clientServerDate\clientServerDate\obj\Debug\clientServerDate.exe
+F:\c# Gonchart\task 15\clientServerDate\clientServerDate\obj\Debug\clientServerDate.pdb
+F:\c# Gonchart\task 15\clientServerDate\clientServerDate\obj\Debug\clientServerDate.csprojResolveAssemblyReference.cache
