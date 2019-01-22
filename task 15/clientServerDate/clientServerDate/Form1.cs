@@ -33,24 +33,29 @@ namespace clientServerDate
                 {
                     while (true)
                     {
-
-                        TcpClient client = listener.AcceptTcpClient();
-                        NetworkStream stream = client.GetStream();
-                        byte[] buffer = new byte[client.ReceiveBufferSize];
-                        int bytesRead = stream.Read(buffer, 0, client.ReceiveBufferSize);
-                       
-                        string dataRecieved = Encoding.ASCII.GetString(buffer, 0, bytesRead);
-                        string textToSend;
-                        if (dataRecieved.Equals("getDate"))
+                        try
                         {
-                            textToSend = DateTime.Now.ToString();
+                            TcpClient client = listener.AcceptTcpClient();
+                            NetworkStream stream = client.GetStream();
+                            byte[] buffer = new byte[client.ReceiveBufferSize];
+                            int bytesRead = stream.Read(buffer, 0, client.ReceiveBufferSize);
+
+                            string dataRecieved = Encoding.ASCII.GetString(buffer, 0, bytesRead);
+                            string textToSend;
+                            if (dataRecieved.Equals("getDate"))
+                            {
+                                textToSend = DateTime.Now.ToString();
+                            }
+                            else
+                            {
+                                textToSend = "incorrect query";
+                            }
+                            byte[] bytesToSend = ASCIIEncoding.ASCII.GetBytes(textToSend);
+                            stream.Write(bytesToSend, 0, bytesToSend.Length);
                         }
-                        else {
-                            textToSend = "incorrect query";
+                        catch
+                        {
                         }
-                        byte[] bytesToSend = ASCIIEncoding.ASCII.GetBytes(textToSend);
-                        stream.Write(bytesToSend, 0, bytesToSend.Length);
-                        
                        
                     }
                 })));
@@ -65,7 +70,7 @@ namespace clientServerDate
                 button1.Text = "start server";
                 serverStart = false;
                 listener.Stop();
-                t1.Suspend();
+                t1.Abort();
             }
             
             
