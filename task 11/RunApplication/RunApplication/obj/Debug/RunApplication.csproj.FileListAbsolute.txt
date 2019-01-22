@@ -1,0 +1,11 @@
+F:\c# Gonchart\task 11\RunApplication\RunApplication\bin\Debug\RunApplication.exe.config
+F:\c# Gonchart\task 11\RunApplication\RunApplication\bin\Debug\RunApplication.exe
+F:\c# Gonchart\task 11\RunApplication\RunApplication\bin\Debug\RunApplication.pdb
+F:\c# Gonchart\task 11\RunApplication\RunApplication\bin\Debug\WindowsFormsControlLibrary1.dll
+F:\c# Gonchart\task 11\RunApplication\RunApplication\bin\Debug\WindowsFormsControlLibrary1.pdb
+F:\c# Gonchart\task 11\RunApplication\RunApplication\obj\Debug\RunApplication.csprojResolveAssemblyReference.cache
+F:\c# Gonchart\task 11\RunApplication\RunApplication\obj\Debug\RunApplication.Form1.resources
+F:\c# Gonchart\task 11\RunApplication\RunApplication\obj\Debug\RunApplication.Properties.Resources.resources
+F:\c# Gonchart\task 11\RunApplication\RunApplication\obj\Debug\RunApplication.csproj.GenerateResource.Cache
+F:\c# Gonchart\task 11\RunApplication\RunApplication\obj\Debug\RunApplication.exe
+F:\c# Gonchart\task 11\RunApplication\RunApplication\obj\Debug\RunApplication.pdb
