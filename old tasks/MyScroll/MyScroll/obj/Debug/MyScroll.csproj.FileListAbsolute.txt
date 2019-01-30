@@ -1,0 +1,7 @@
+c:\users\антон\documents\visual studio 2012\Projects\MyScroll\MyScroll\bin\Debug\MyScroll.dll
+c:\users\антон\documents\visual studio 2012\Projects\MyScroll\MyScroll\bin\Debug\MyScroll.pdb
+c:\users\антон\documents\visual studio 2012\Projects\MyScroll\MyScroll\obj\Debug\MyScroll.csprojResolveAssemblyReference.cache
+c:\users\антон\documents\visual studio 2012\Projects\MyScroll\MyScroll\obj\Debug\MyScroll.UserControl1.resources
+c:\users\антон\documents\visual studio 2012\Projects\MyScroll\MyScroll\obj\Debug\MyScroll.csproj.GenerateResource.Cache
+c:\users\антон\documents\visual studio 2012\Projects\MyScroll\MyScroll\obj\Debug\MyScroll.dll
+c:\users\антон\documents\visual studio 2012\Projects\MyScroll\MyScroll\obj\Debug\MyScroll.pdb

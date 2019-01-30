@@ -1,0 +1,1 @@
+C:\Users\антон\Documents\Visual Studio 2012\Projects\c# Gonchart\task 2\Component\serverDate\serverDate\bin\Debug\serverDate.exe.config

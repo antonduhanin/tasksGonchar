@@ -1,0 +1,9 @@
+F:\c# Gonchart\task 9\commonChat\commonChat\bin\Debug\commonChat.exe.config
+F:\c# Gonchart\task 9\commonChat\commonChat\bin\Debug\commonChat.exe
+F:\c# Gonchart\task 9\commonChat\commonChat\bin\Debug\commonChat.pdb
+F:\c# Gonchart\task 9\commonChat\commonChat\obj\Debug\commonChat.csprojResolveAssemblyReference.cache
+F:\c# Gonchart\task 9\commonChat\commonChat\obj\Debug\commonChat.Form1.resources
+F:\c# Gonchart\task 9\commonChat\commonChat\obj\Debug\commonChat.Properties.Resources.resources
+F:\c# Gonchart\task 9\commonChat\commonChat\obj\Debug\commonChat.csproj.GenerateResource.Cache
+F:\c# Gonchart\task 9\commonChat\commonChat\obj\Debug\commonChat.exe
+F:\c# Gonchart\task 9\commonChat\commonChat\obj\Debug\commonChat.pdb

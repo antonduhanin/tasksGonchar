@@ -1,0 +1,7 @@
+c:\users\антон\documents\visual studio 2012\Projects\MYCOMP\MYCOMP\obj\Debug\MYCOMP.csprojResolveAssemblyReference.cache
+c:\users\антон\documents\visual studio 2012\Projects\MYCOMP\MYCOMP\obj\Debug\MYCOMP.WindowsControlLibrary.resources
+c:\users\антон\documents\visual studio 2012\Projects\MYCOMP\MYCOMP\obj\Debug\MYCOMP.csproj.GenerateResource.Cache
+c:\users\антон\documents\visual studio 2012\Projects\MYCOMP\MYCOMP\bin\Debug\MYCOMP.dll
+c:\users\антон\documents\visual studio 2012\Projects\MYCOMP\MYCOMP\bin\Debug\MYCOMP.pdb
+c:\users\антон\documents\visual studio 2012\Projects\MYCOMP\MYCOMP\obj\Debug\MYCOMP.dll
+c:\users\антон\documents\visual studio 2012\Projects\MYCOMP\MYCOMP\obj\Debug\MYCOMP.pdb

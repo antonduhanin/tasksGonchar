@@ -1,0 +1,13 @@
+c:\users\антон\documents\visual studio 2012\Projects\component\component\bin\Debug\component.exe.config
+c:\users\антон\documents\visual studio 2012\Projects\component\component\bin\Debug\component.exe
+c:\users\антон\documents\visual studio 2012\Projects\component\component\bin\Debug\component.pdb
+c:\users\антон\documents\visual studio 2012\Projects\component\component\bin\Debug\MyScroll.dll
+c:\users\антон\documents\visual studio 2012\Projects\component\component\bin\Debug\MyScroll.pdb
+c:\users\антон\documents\visual studio 2012\Projects\component\component\obj\Debug\component.csprojResolveAssemblyReference.cache
+c:\users\антон\documents\visual studio 2012\Projects\component\component\obj\Debug\component.Form1.resources
+c:\users\антон\documents\visual studio 2012\Projects\component\component\obj\Debug\component.Properties.Resources.resources
+c:\users\антон\documents\visual studio 2012\Projects\component\component\obj\Debug\component.csproj.GenerateResource.Cache
+c:\users\антон\documents\visual studio 2012\Projects\component\component\obj\Debug\component.exe
+c:\users\антон\documents\visual studio 2012\Projects\component\component\obj\Debug\component.pdb
+C:\Users\антон\Documents\Visual Studio 2012\Projects\component\component\bin\Debug\MYCOMP.dll
+C:\Users\антон\Documents\Visual Studio 2012\Projects\component\component\bin\Debug\MYCOMP.pdb

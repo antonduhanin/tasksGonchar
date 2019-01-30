@@ -1,0 +1,6 @@
+C:\Users\антон\Documents\Visual Studio 2012\Projects\tempConsole\tempConsole\bin\Debug\tempConsole.exe.config
+C:\Users\антон\Documents\Visual Studio 2012\Projects\tempConsole\tempConsole\bin\Debug\tempConsole.exe
+C:\Users\антон\Documents\Visual Studio 2012\Projects\tempConsole\tempConsole\bin\Debug\tempConsole.pdb
+C:\Users\антон\Documents\Visual Studio 2012\Projects\tempConsole\tempConsole\obj\Debug\tempConsole.exe
+C:\Users\антон\Documents\Visual Studio 2012\Projects\tempConsole\tempConsole\obj\Debug\tempConsole.pdb
+C:\Users\антон\Documents\Visual Studio 2012\Projects\tempConsole\tempConsole\obj\Debug\tempConsole.csprojResolveAssemblyReference.cache

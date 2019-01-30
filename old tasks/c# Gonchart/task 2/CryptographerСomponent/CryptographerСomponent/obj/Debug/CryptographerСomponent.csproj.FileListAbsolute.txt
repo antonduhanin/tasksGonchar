@@ -1,0 +1,14 @@
+F:\c# Gonchart\task 2\CryptographerСomponent\CryptographerСomponent\bin\Debug\CryptographerСomponent.dll
+F:\c# Gonchart\task 2\CryptographerСomponent\CryptographerСomponent\bin\Debug\CryptographerСomponent.pdb
+F:\c# Gonchart\task 2\CryptographerСomponent\CryptographerСomponent\obj\Debug\CryptographerСomponent.csprojResolveAssemblyReference.cache
+F:\c# Gonchart\task 2\CryptographerСomponent\CryptographerСomponent\obj\Debug\CryptographerСomponent.UserControl1.resources
+F:\c# Gonchart\task 2\CryptographerСomponent\CryptographerСomponent\obj\Debug\CryptographerСomponent.csproj.GenerateResource.Cache
+F:\c# Gonchart\task 2\CryptographerСomponent\CryptographerСomponent\obj\Debug\CryptographerСomponent.dll
+F:\c# Gonchart\task 2\CryptographerСomponent\CryptographerСomponent\obj\Debug\CryptographerСomponent.pdb
+C:\Users\антон\Documents\Visual Studio 2012\Projects\c# Gonchart\task 2\CryptographerСomponent\CryptographerСomponent\bin\Debug\CryptographerСomponent.dll
+C:\Users\антон\Documents\Visual Studio 2012\Projects\c# Gonchart\task 2\CryptographerСomponent\CryptographerСomponent\bin\Debug\CryptographerСomponent.pdb
+C:\Users\антон\Documents\Visual Studio 2012\Projects\c# Gonchart\task 2\CryptographerСomponent\CryptographerСomponent\obj\Debug\CryptographerСomponent.csprojResolveAssemblyReference.cache
+C:\Users\антон\Documents\Visual Studio 2012\Projects\c# Gonchart\task 2\CryptographerСomponent\CryptographerСomponent\obj\Debug\CryptographerСomponent.UserControl1.resources
+C:\Users\антон\Documents\Visual Studio 2012\Projects\c# Gonchart\task 2\CryptographerСomponent\CryptographerСomponent\obj\Debug\CryptographerСomponent.csproj.GenerateResource.Cache
+C:\Users\антон\Documents\Visual Studio 2012\Projects\c# Gonchart\task 2\CryptographerСomponent\CryptographerСomponent\obj\Debug\CryptographerСomponent.dll
+C:\Users\антон\Documents\Visual Studio 2012\Projects\c# Gonchart\task 2\CryptographerСomponent\CryptographerСomponent\obj\Debug\CryptographerСomponent.pdb
