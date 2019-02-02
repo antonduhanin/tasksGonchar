@@ -1,6 +1,0 @@
-C:\Users\антон\Documents\Visual Studio 2012\Projects\temp\temp\bin\Debug\temp.dll
-C:\Users\антон\Documents\Visual Studio 2012\Projects\temp\temp\bin\Debug\temp.pdb
-C:\Users\антон\Documents\Visual Studio 2012\Projects\temp\temp\obj\Debug\temp.UserControl1.resources
-C:\Users\антон\Documents\Visual Studio 2012\Projects\temp\temp\obj\Debug\temp.csproj.GenerateResource.Cache
-C:\Users\антон\Documents\Visual Studio 2012\Projects\temp\temp\obj\Debug\temp.dll
-C:\Users\антон\Documents\Visual Studio 2012\Projects\temp\temp\obj\Debug\temp.pdb

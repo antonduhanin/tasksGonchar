@@ -1,9 +1,0 @@
-C:\Users\антон\Documents\Visual Studio 2012\Projects\browser\browser\bin\Debug\browser.exe.config
-C:\Users\антон\Documents\Visual Studio 2012\Projects\browser\browser\bin\Debug\browser.exe
-C:\Users\антон\Documents\Visual Studio 2012\Projects\browser\browser\bin\Debug\browser.pdb
-C:\Users\антон\Documents\Visual Studio 2012\Projects\browser\browser\obj\Debug\browser.csprojResolveAssemblyReference.cache
-C:\Users\антон\Documents\Visual Studio 2012\Projects\browser\browser\obj\Debug\browser.Form1.resources
-C:\Users\антон\Documents\Visual Studio 2012\Projects\browser\browser\obj\Debug\browser.Properties.Resources.resources
-C:\Users\антон\Documents\Visual Studio 2012\Projects\browser\browser\obj\Debug\browser.csproj.GenerateResource.Cache
-C:\Users\антон\Documents\Visual Studio 2012\Projects\browser\browser\obj\Debug\browser.exe
-C:\Users\антон\Documents\Visual Studio 2012\Projects\browser\browser\obj\Debug\browser.pdb
