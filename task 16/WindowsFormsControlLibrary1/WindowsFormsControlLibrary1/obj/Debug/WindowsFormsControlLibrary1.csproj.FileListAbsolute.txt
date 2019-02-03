@@ -1,0 +1,7 @@
+F:\c# Gonchart\task 16\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+F:\c# Gonchart\task 16\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+F:\c# Gonchart\task 16\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csprojResolveAssemblyReference.cache
+F:\c# Gonchart\task 16\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+F:\c# Gonchart\task 16\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.Cache
+F:\c# Gonchart\task 16\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+F:\c# Gonchart\task 16\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
